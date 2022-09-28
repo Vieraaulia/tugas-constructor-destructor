@@ -1,0 +1,14 @@
+apa itu 
+    a. constructor
+        Constructor adalah method khusus yang akan dijalankan secara otomatis pada saat sebuah objek dibuat (instansiasi),
+        yakni ketika perintah “new” dijalankan.
+    b. destructor
+        Destructor adalah method khusus yang dijalankan secara otomatis pada saat sebuah objek dihapus. Di dalam PHP, 
+        seluruh objek sebanarnya sudah otomatis dihapus ketika halaman PHP selesai diproses.
+        Tetapi kita juga dapat menghapus objek secara manual.
+Bagaimana membuat
+    a. constructor
+    b. destructor
+
+Buatlah, program yang menampilkan text menggunakan constructor.
+contoh kasus menggunakan yang dibagikan di grup 
